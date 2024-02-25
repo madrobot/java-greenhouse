@@ -1,0 +1,10 @@
+dump.out
+fix.log
+error.log
+*.doc
+*.docx
+*.class
+bin/*
+out/*
+.idea/*
+*.iml
